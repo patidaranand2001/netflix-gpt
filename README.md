@@ -11,7 +11,9 @@
   - Create sign up user
   - impliment  sign in user api
   - created Redux Store
-  -  
+  -  sign-out function
+  - update profile
+  - TMDB apis
 
 # Features
 - login/sign Up
