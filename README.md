@@ -5,7 +5,13 @@
   - Routing of app
   - login form
   - signUP form
-  - useRef
+  - useRef  hook 
+  - Firebase setup 
+  -  Deployed app to production
+  - Create sign up user
+  - impliment  sign in user api
+  - created Redux Store
+  -  
 
 # Features
 - login/sign Up
